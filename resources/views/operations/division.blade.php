@@ -1,0 +1,1 @@
+la division de {!!$value1!!} entre {!!$value2!!} es: {!!$total!!}

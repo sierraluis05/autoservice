@@ -1,0 +1,1 @@
+la multiplicacion de {!!$value1!!} por {!!$value2!!} es: {!!$total!!}

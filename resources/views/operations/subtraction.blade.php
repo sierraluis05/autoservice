@@ -1,0 +1,1 @@
+la resta de {!!$value1!!} menos {!!$value2!!} es: {!!$total!!}
